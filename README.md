@@ -16,7 +16,7 @@ In this example, we are creating a form to post comment. The form data is saved 
 
 ![image](https://user-images.githubusercontent.com/52199294/62814309-a9e83280-bb2d-11e9-8921-438f31031073.png)
 
-<hr>
+
 **User validation is also done by using javascript**
 
 ![image](https://user-images.githubusercontent.com/52199294/62814578-13b50c00-bb2f-11e9-96ae-e0e8f71e894c.png)
