@@ -11,6 +11,9 @@ In this example, we are creating a form to post comment. The form data is saved 
 **I have used oracle database here** <br>
 
 **I have used JSP page as a server side page and front-end html/javascript AJAX**
+* index.html -> UI (bootstrap4)<br>
+* index.js -> javascript page<br>
+* index.jsp -> JSP<br>
 
 # Screenshots
 
