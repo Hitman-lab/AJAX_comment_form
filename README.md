@@ -8,8 +8,13 @@ In this example, we are creating a form to post comment. The form data is saved 
 2. create comment form<br>
 3. Create server side page (which is index.jsp in this demo) to save the form data and print all posted comments
 
-**I have used oracle database here**
+**I have used oracle database here** <br>
+
 **I have used JSP page as a server side page and front-end html/javascript AJAX**
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/52199294/62814309-a9e83280-bb2d-11e9-8921-438f31031073.png)
 
 
 
